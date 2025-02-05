@@ -29,4 +29,4 @@ function calculate(p,d){
     //---------------------------
         msg = "successfully calculated!"
         return {"status":1,"message":msg,"hour":pc.hour,"min":pc.min};
-}2
+}23
